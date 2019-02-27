@@ -30,13 +30,7 @@
 	opacity: 0.9;
 }
 
-.locations {
-	display: inline-block;
-	height: 100%;
-	width: 25%;
-}
-
-.amenities {
+.amenities, .locations {
 	display: inline-block;
 	height: 100%;
 	width: 25%;
